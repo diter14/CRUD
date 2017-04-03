@@ -1,0 +1,41 @@
+E:\POO C# Modulo 1\AppDemo17\AppDemo17\bin\Debug\AppDemo17.exe.config
+E:\POO C# Modulo 1\AppDemo17\AppDemo17\bin\Debug\AppDemo17.exe
+E:\POO C# Modulo 1\AppDemo17\AppDemo17\bin\Debug\AppDemo17.pdb
+E:\POO C# Modulo 1\AppDemo17\AppDemo17\obj\Debug\AppDemo17.csprojResolveAssemblyReference.cache
+E:\POO C# Modulo 1\AppDemo17\AppDemo17\obj\Debug\AppDemo17.Properties.Resources.resources
+E:\POO C# Modulo 1\AppDemo17\AppDemo17\obj\Debug\AppDemo17.View.ProductoView.resources
+E:\POO C# Modulo 1\AppDemo17\AppDemo17\obj\Debug\AppDemo17.csproj.GenerateResource.Cache
+E:\POO C# Modulo 1\AppDemo17\AppDemo17\obj\Debug\AppDemo17.exe
+E:\POO C# Modulo 1\AppDemo17\AppDemo17\obj\Debug\AppDemo17.pdb
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Clase N7 31-03\AppDemo17\AppDemo17\bin\Debug\AppDemo17.exe.config
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Clase N7 31-03\AppDemo17\AppDemo17\obj\Debug\AppDemo17.exe
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Clase N7 31-03\AppDemo17\AppDemo17\obj\Debug\AppDemo17.pdb
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Clase N7 31-03\AppDemo17\AppDemo17\bin\Debug\AppDemo17.exe
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Clase N7 31-03\AppDemo17\AppDemo17\bin\Debug\AppDemo17.pdb
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Clase N7 31-03\AppDemo17\AppDemo17\bin\Debug\mscorlib.dll
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Clase N7 31-03\AppDemo17\AppDemo17\bin\Debug\es\mscorlib.resources.dll
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Clase N7 31-03\AppDemo17\AppDemo17\bin\Debug\normidna.nlp
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Clase N7 31-03\AppDemo17\AppDemo17\bin\Debug\normnfc.nlp
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Clase N7 31-03\AppDemo17\AppDemo17\bin\Debug\normnfd.nlp
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Clase N7 31-03\AppDemo17\AppDemo17\bin\Debug\normnfkc.nlp
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Clase N7 31-03\AppDemo17\AppDemo17\bin\Debug\normnfkd.nlp
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Clase N7 31-03\AppDemo17\AppDemo17\obj\Debug\AppDemo17.csprojResolveAssemblyReference.cache
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Clase N7 31-03\AppDemo17\AppDemo17\obj\Debug\AppDemo17.Properties.Resources.resources
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Clase N7 31-03\AppDemo17\AppDemo17\obj\Debug\AppDemo17.View.ProductoView.resources
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Clase N7 31-03\AppDemo17\AppDemo17\obj\Debug\AppDemo17.csproj.GenerateResource.Cache
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Proyecto\AppDemo17\AppDemo17\bin\Debug\AppDemo17.exe.config
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Proyecto\AppDemo17\AppDemo17\obj\Debug\AppDemo17.exe
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Proyecto\AppDemo17\AppDemo17\obj\Debug\AppDemo17.pdb
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Proyecto\AppDemo17\AppDemo17\bin\Debug\AppDemo17.exe
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Proyecto\AppDemo17\AppDemo17\bin\Debug\AppDemo17.pdb
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Proyecto\AppDemo17\AppDemo17\bin\Debug\mscorlib.dll
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Proyecto\AppDemo17\AppDemo17\bin\Debug\es\mscorlib.resources.dll
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Proyecto\AppDemo17\AppDemo17\bin\Debug\normidna.nlp
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Proyecto\AppDemo17\AppDemo17\bin\Debug\normnfc.nlp
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Proyecto\AppDemo17\AppDemo17\bin\Debug\normnfd.nlp
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Proyecto\AppDemo17\AppDemo17\bin\Debug\normnfkc.nlp
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Proyecto\AppDemo17\AppDemo17\bin\Debug\normnfkd.nlp
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Proyecto\AppDemo17\AppDemo17\obj\Debug\AppDemo17.csprojResolveAssemblyReference.cache
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Proyecto\AppDemo17\AppDemo17\obj\Debug\AppDemo17.Properties.Resources.resources
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Proyecto\AppDemo17\AppDemo17\obj\Debug\AppDemo17.View.ProductoView.resources
+C:\Users\Dither Terrones\Desktop\Cursos\C# - Sistemas UNI\Modulo 1 - Desarrollo de soluciones Windows\Proyecto\AppDemo17\AppDemo17\obj\Debug\AppDemo17.csproj.GenerateResource.Cache
